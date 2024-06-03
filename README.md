@@ -1,3 +1,4 @@
+![logo](https://github.com/WebdevSamir/Samir-Aryan/blob/main/for%20git.jpg)
 <h1 align="center">Hi 👋There, I'm Samir Aryan</h1>
 <h3 align="center">A passionate Website developer from Nepal</h3>
 
