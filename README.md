@@ -1,8 +1,5 @@
-![logo](https://github.com/WebdevSamir/Samir-Aryan/blob/main/for%20git.jpg)
-<h1 align="center">Hi 👋 There, I'm Samir Aryan</h1>
+<h1 align="center">Hi 👋There, I'm Samir Aryan</h1>
 <h3 align="center">A passionate Website developer from Nepal</h3>
-
-<img align="right" alt="coding" width="500" scr="https://github.com/WebdevSamir/Samir-Aryan/blob/main/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b653.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samir-aryan&label=Profile%20views&color=0e75b6&style=flat" alt="samir-aryan" /> </p>
 
@@ -25,7 +22,7 @@
 <a href="https://linkedin.com/in/samir aryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samir aryan" height="30" width="40" /></a>
 <a href="https://fb.com/samir aryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samir aryan" height="30" width="40" /></a>
 <a href="https://instagram.com/igobysamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igobysamir" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@samiraryan3727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="melodious samir" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/melodious samir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="melodious samir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samir-aryan&show_icons=true&locale=en" alt="samir-aryan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samir-aryan&" alt="samir-aryan" /></p>
+
