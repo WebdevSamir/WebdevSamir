@@ -16,11 +16,11 @@
 
 - 📫 How to reach me **samiraryan2018@gmail.com**
 
-- ⚡ Fun fact **I'm a romantic fool at heart and sometimes feel like a storybook character.**
+- ⚡ Fun fact **I'm a romantic fool at heart.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samir aryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samir aryan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samir-aryan-3970a31a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samir aryan" height="30" width="40" /></a>
 <a href="https://fb.com/samir aryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samir aryan" height="30" width="40" /></a>
 <a href="https://instagram.com/igobysamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igobysamir" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@samiraryan3727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="melodious samir" height="30" width="40" /></a>
