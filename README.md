@@ -4,13 +4,15 @@
 <img align="right" alt="coding" width="400" src="https://github.com/WebdevSamir/WebdevSamir/blob/main/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samir-aryan&label=Profile%20views&color=0e75b6&style=flat" alt="samir-aryan" /> </p>
 
-- 🔭 I’m currently working on website [It's website for Textile Industry](https://shreeganeshtextile.com/)
+- 🔭 I’m currently working on website [It's website for Abroad study](https://agranishikshya.com/)
 
 - 🌱 I’m currently learning **React , React Native**
 
 - 🔭 I’m currently working on website [It's website for Corridor Craft](https://shethgroupofcompanies.com/)
 
-- 🔭 I’m currently working on website [It's website For Hardware Parts](https://jankipolytank.com/)
+- 🔭 I’m currently working on website [It's website For Abroad study](https://acsnepal.com.np/)
+
+- 🔭 I’m currently working on website [It's website for my friend's Portfolio](http://bishalkumarmandal.com.np/)
 
 - 💬 Ask me about **Html ,CSS, JavaScript, Php, WordPress**
 
